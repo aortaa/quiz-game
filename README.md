@@ -12,9 +12,9 @@ A quiz/trivia game with different modes and categories that you can select, as w
 
   <a href="https://quizi.vercel.app">View Demo</a>
   ·
-  <a href="https://github.com/cosmoart/quiz-game/issues">Report Bug</a>
+  <a href="https://github.com/aortaa/quiz-game/issues">Report Bug</a>
   ·
-  <a href="https://github.com/cosmoart/quiz-game/issues">Request Feature</a>
+  <a href="https://github.com/aortaa/quiz-game/issues">Request Feature</a>
 </div>
 
 
@@ -137,15 +137,6 @@ COHERE_API_KEY=XXXXXXXXXXXXXXXXXX
 <p align="right"><a href="#top">⬆️ Back to top</a></p>
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See [`LICENSE.txt`](https://github.com/cosmoart/quiz-game/blob/main/LICENCE) for more information.
-
-<p align="right"><a href="#top">⬆️ Back to top</a></p>
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -157,14 +148,5 @@ Distributed under the MIT License. See [`LICENSE.txt`](https://github.com/cosmoa
 - [ ] ~~PWA~~
 - [x] Personalize the game over screen for infinite mode
 - [ ] ~~Personalize error page for API limit exceeded~~
-
-<p align="right"><a href="#top">⬆️ Back to top</a></p>
-
-<!-- CONTACT -->
-## Contact
-
--   My website - [cosmoart.vercel.app](https://cosmoart.vercel.app)
--   Twitter - [@CosmoArt0](https://twitter.com/cosmoart0)
--   Instagram - [@cosmo_art0](https://www.instagram.com/cosmo_art0/)
 
 <p align="right"><a href="#top">⬆️ Back to top</a></p>
